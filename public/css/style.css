@@ -1,0 +1,2 @@
+table thead th {cursor: pointer}
+table thead th:hover {background: aliceblue}
